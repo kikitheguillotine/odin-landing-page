@@ -103,21 +103,6 @@ body {
     text-align: justify;
 }
 
-.signup {
-    color: #445290;
-    font-weight: 700;
-    align-self: center;
-    padding: 10px;
-    width: 120px;
-    background-color: #f497b4;    
-    border-radius: 12px;
-    border-style: hidden;
-}
-
-.signup:hover {
-    background-color: #f2eac0;
-}
-
 .cta-container,
 .info-container {
     display: flex;
@@ -204,6 +189,7 @@ body {
     color: #F9FAF8;
 }
 
+.signup,
 .banner button {
     color: #F9FAF8;
     font-weight: 700;
@@ -215,6 +201,7 @@ body {
     border-style: hidden;
 }
 
+.signup:hover,
 .banner button:hover {
     background-color: #F9FAF8;
     color: #f497b4;
